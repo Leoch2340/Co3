@@ -67,8 +67,13 @@ output_xml = parser.parse(input_text)
 ![изображение](https://github.com/user-attachments/assets/3ea420eb-a918-4319-b66f-d5fabf823c72)
 
 
-Выполнение команды python3 config_parser.py < input3.txt
+Выполнение команды python3 config_parser.py < input.txt
 
+![изображение](https://github.com/user-attachments/assets/78bd55a1-4a91-4ee7-9b93-55c88cdf9fca)
 
+Выполнение команды python3 config_parser.py < input2.txt 
 
+![изображение](https://github.com/user-attachments/assets/733f9b8c-c79c-4571-bab8-ce1358b62604)
+
+Выполнение команды python3 config_parser.py < input3.txt 
 
