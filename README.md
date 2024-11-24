@@ -60,6 +60,7 @@
 ```python
 parser = ConfigParser(debug=True)
 output_xml = parser.parse(input_text)
+```
 
 ## 4. Примеры использования в виде скриншотов, желательно в анимированном/видео формате, доступном для web-просмотра.
 
