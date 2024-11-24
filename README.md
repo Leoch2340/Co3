@@ -63,7 +63,9 @@ output_xml = parser.parse(input_text)
 
 ## 4. Примеры использования в виде скриншотов, желательно в анимированном/видео формате, доступном для web-просмотра.
 
-![изображение](https://github.com/user-attachments/assets/0079c9d6-013d-4bb6-adb3-f6cbc00761af)
+![изображение](https://github.com/user-attachments/assets/3ea420eb-a918-4319-b66f-d5fabf823c72)
+
+
 Выполнение команды python3 config_parser.py < input3.txt
 
 
