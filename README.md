@@ -45,15 +45,7 @@
 
 ## 3. Описание команд для сборки проекта
 
-### Установка и запуск
-
-1. **Клонируйте репозиторий**:
-    ```bash
-    git clone https://example.com/config_parser.git
-    cd config_parser
-    ```
-
-2. **Запустите скрипт**:
+ **Запустите скрипт**:
     Пример запуска парсера:
     ```bash
     python3 config_parser.py < input.txt
