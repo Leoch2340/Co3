@@ -47,7 +47,7 @@
 
  **Запустите скрипт**:
     Пример запуска парсера:
-    ```bash
+    ```
     python3 config_parser.py < input.txt
     ```
 
