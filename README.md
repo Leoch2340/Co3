@@ -77,3 +77,7 @@ output_xml = parser.parse(input_text)
 
 Выполнение команды python3 config_parser.py < input3.txt 
 
+## 5. Результаты прогона тестов 
+
+![изображение](https://github.com/user-attachments/assets/a14619be-1247-4074-8183-004c2ff50340)
+
