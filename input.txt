@@ -1,0 +1,7 @@
+% Конфигурация для теста
+(define a 10)
+(define b 20)
+struct {
+    sum = |+ a b|,
+    difference = |- a b|
+}

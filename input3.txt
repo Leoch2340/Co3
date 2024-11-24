@@ -1,0 +1,13 @@
+% Конфигурация базы данных
+(define db_name 'my_database')
+(define db_user 'admin')
+(define db_password 'securepassword')
+(define db_host 'localhost')
+(define db_port 5432)
+struct {
+    database = db_name,
+    user = db_user,
+    password = db_password,
+    host = db_host,
+    port = db_port
+}

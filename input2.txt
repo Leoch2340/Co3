@@ -1,0 +1,9 @@
+% Конфигурация маршрутизатора
+(define router_name 'Router1')
+(define ip_address '192.168.1.1')
+(define subnet_mask '255.255.255.0')
+struct {
+    hostname = router_name,
+    ip = ip_address,
+    subnet = subnet_mask
+}
