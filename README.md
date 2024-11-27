@@ -79,5 +79,6 @@ output_xml = parser.parse(input_text)
 
 ## 5. Результаты прогона тестов 
 
-![изображение](https://github.com/user-attachments/assets/a14619be-1247-4074-8183-004c2ff50340)
+![изображение](https://github.com/user-attachments/assets/08bdf76c-5ede-4509-af00-f9d805fda102)
 
+Выполнение команды python3 -m unittest test_config_parser.py
